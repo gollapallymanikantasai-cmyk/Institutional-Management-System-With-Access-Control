@@ -1,4 +1,5 @@
-#  Role-Based Student Management System
+#  Institutional-Management-System-With-Access-Control
+
 
 ##  Description
 This is a **Java-based web application** designed to manage student data with **role-based access control**. The system provides separate dashboards for **Admin** and **Student** users, ensuring secure and organized data management.
